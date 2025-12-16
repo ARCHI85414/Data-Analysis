@@ -75,9 +75,6 @@ SELECT MAX(Age) As Oldeest_Age
 FROM STUDENTS;
 
 
-
-
-
 # SQL Student Database Practice (DAY5)
 
 ## 📌 Project Overview
